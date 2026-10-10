@@ -16,8 +16,6 @@ The aim of this repository is to build practical experience with Docker through 
 - Redis
 - Git / GitHub
 
-## What I Practised
-
 ### Docker Basics
 
 Practised the core Docker workflow including:
